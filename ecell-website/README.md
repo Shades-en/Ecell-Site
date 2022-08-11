@@ -1,2 +1,2 @@
-# ecell-website
-Website of ECELL RIT
+# Ecell-website
+Website of ECELL RIT (PROTOTYPE)
